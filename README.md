@@ -1,2 +1,2 @@
 # youtube_api
-Repo to communicate with the YouTube API, and collect and analyze data from it.
+Repository to communicate, collect, and analyze data from the YouTube API.
